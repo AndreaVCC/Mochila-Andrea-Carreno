@@ -1,0 +1,6 @@
+ip vm 172.30.1.2
+ip publica 135.148........
+
+"enp1s0" es "f2:05:f6:3f:86:80"
+
+si, son diferentes
